@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: mongodb
-        image: jaya08431/mongodb
+        image: jaya08431/mongodb:v1
         imagePullPolicy: Always
 
 ---
